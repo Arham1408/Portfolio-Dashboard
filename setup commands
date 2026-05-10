@@ -1,0 +1,7 @@
+cd portfolio-dashboard
+git init
+git commit -m "Initial commit: Portfolio Dashboard"
+git branch -M main
+git remote add origin https://github.com/arham1408/portfolio-dashboard.git
+git remote add origin https://github.com/arham1408/portfolio-dashboard.git
+git push -u origin main
